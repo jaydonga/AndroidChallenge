@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">AndroidChallenge</string>
+    <string name="please_check_your_internet_connection">Please check your Internet connection</string>
+    <string name="products">Products</string>
+    <string name="product_details">Product Details</string>
+    <string name="products_not_available_please_try_again_later">Products are not available. Please try again later.</string>
+    <string name="color">Color:</string>
+    <string name="size">Size:</string>
+    <string name="discount">%s off</string>
+    <string name="on_sale">On Sale !</string>
+    <string name="not_on_sale">Not on sale :(</string>
+    <string name="available_sizes">Available Sizes</string>
+    <string name="search_product_by_name">Search product by name</string>
+    <string name="sort_by_discount">Discount</string>
+    <string name="sort_by_price">Price</string>
 </resources>
